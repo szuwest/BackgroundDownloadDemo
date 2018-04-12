@@ -12,3 +12,5 @@
  * Xcode8.0
  * iOS9.3.5
 
+---------
+[iOS后台下载和断点续传](http://szuwest.github.io/ioshou-tai-xia-zai-he-duan-dian-xu-chuan.html)
